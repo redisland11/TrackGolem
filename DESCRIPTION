@@ -21,3 +21,5 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Language: en-US
+URL: https://github.com/redisland11/TrackGolem
+BugReports: https://github.com/redisland11/TrackGolem/issues
